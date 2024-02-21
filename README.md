@@ -14,7 +14,7 @@ Clone this repo.
 
 Change directories into the repo that you cloned.
 
-    cd dataverse-sample-data
+    cd dataverse-10k-data
 
 Create a virtual environment for this project.
 

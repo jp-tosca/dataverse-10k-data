@@ -1,5 +1,5 @@
 base_url = 'http://localhost:8080'
-api_token = ''
+api_token = '720c1682-a384-471d-a6b1-4e4b1a05fe7c'
 # sample data will be created in the following order
 sample_data = [
 'data/dataverses/pums/pums.json',
