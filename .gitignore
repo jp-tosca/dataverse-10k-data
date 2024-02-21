@@ -3,3 +3,4 @@ __pycache__
 dvconfig.py
 ec2-create-instance.sh
 venv
+genlogo
